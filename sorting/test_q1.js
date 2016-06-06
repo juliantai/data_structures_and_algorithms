@@ -1,0 +1,2 @@
+// xor all values together
+
